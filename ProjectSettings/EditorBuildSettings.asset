@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Global/Scenes/MenuScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Global/Scenes/LevelScene.unity
+    guid: 3f38254c52fa344a1b8cd85ac5f9b66f
+  - enabled: 1
+    path: Assets/Global/Scenes/GaneModeScene.unity
+    guid: 6b92741e95b1e41a1b5b91d1907193e4
+  - enabled: 1
+    path: Assets/Features/Bagian/Scene/BagianL1.unity
+    guid: 55d9d9f261a554f46ac83d1b8becfab8
+  - enabled: 1
+    path: Assets/Features/Bagian/Scene/BagianL2.unity
+    guid: c175a8d6363154a0ea3131ec66f39d6a
+  - enabled: 1
+    path: Assets/Features/Bagian/Scene/BagianL3.unity
+    guid: 6d07dee6a37fc44cd9b9e556850cd456
+  - enabled: 1
+    path: Assets/Features/Bagian/Scene/BagianL5.unity
+    guid: bf0efabc877404888abf3cc9886dbef4
+  - enabled: 1
+    path: Assets/Features/Bayangan/Scene/BayanganL1.unity
+    guid: f396bab1b2988462ca94bfe4da050000
+  - enabled: 1
+    path: Assets/Features/Bayangan/Scene/BayanganL2.unity
+    guid: b93b2e3568a1d415cb3f670ca265b713
+  - enabled: 1
+    path: Assets/Features/Bayangan/Scene/BayanganL3.unity
+    guid: 4fa159cbc3d604c11a752d17ed7e6232
+  - enabled: 1
+    path: Assets/Features/Bayangan/Scene/BayanganL4.unity
+    guid: a60fdb294eb3d486281affc7f433df18
+  - enabled: 1
+    path: Assets/Features/Bayangan/Scene/BayanganL5.unity
+    guid: 48186a6cf86354273ad94ee1e78ca727
+  - enabled: 1
+    path: Assets/Features/Bagian/Scene/BagianL4.unity
+    guid: f0f69137dd0754a8d97902cac63f9908
+  m_configObjects: {}
